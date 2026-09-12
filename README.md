@@ -69,7 +69,7 @@ Recommendations & Report
 ## ⚙️ Run Locally
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Data-Forensics-AI.git
+git clone https://github.com/srushti-dsjourney/Data-Forensics-AI.git
 cd Data-Forensics-AI
 pip install -r requirements.txt
 python app.py

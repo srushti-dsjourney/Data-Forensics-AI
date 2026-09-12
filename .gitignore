@@ -1,0 +1,22 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables / secrets
+.env
+
+# Uploaded/private datasets
+data/*
+
+# Generated analysis files
+static/*.png
+static/cleaned_dataset.csv
+
+# Logs
+*.log
+
+static/charts/
